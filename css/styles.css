@@ -3,20 +3,14 @@ h1 {
   font-style: oblique;
 }
 
-
-img {
-  width: 50%;
-  height: 50%;
-}
-
-.centered_img {
+.banner_img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  height: 30%;
   display: block;
 }
-
 
 .text_border {
   margin: 12px;
@@ -26,6 +20,10 @@ img {
 }
 
 .box1 {
+border: solid black;
+}
+
+.box2 {
   width: 50%;
   border: solid black;
   border-width: 1px;
@@ -45,11 +43,5 @@ img {
   width: 30%;
 }
 /*
-
 css needs margin, border, padding, typography styles, and floats.
-
-
-
-
-
 */
