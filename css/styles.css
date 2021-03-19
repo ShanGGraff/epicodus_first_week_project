@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  font-style: oblique;
+}
+
+
+img {
+  float: center;
+  width: 50%;
+  height: 50%;
+}
+
+.center_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*
+
+css needs margin, border, padding, typography styles, and floats.
+
+
+
+
+
+*/
