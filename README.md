@@ -32,3 +32,4 @@ Copyright (c) 2021 Shane Graff
 ## Contact Information
 Shane Graff <copellius@gmail.com>
 Github page: github.com/ShanGGraff
+GH-Pages: https://shanggraff.github.io/epicodus_first_week_project/

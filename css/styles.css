@@ -24,8 +24,12 @@ p {
 }
 
 .box1 {
-border: solid black;
-border-width: 1px;
+  width: 100%;
+  border: solid rgb(231, 224, 224);
+  border-width: 1px;
+  background-color: rgb(201, 196, 188);
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
 
@@ -33,7 +37,6 @@ border-width: 1px;
   width: 100%;
   border: solid black;
   border-width: 1px;
-  background-color: orange;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
