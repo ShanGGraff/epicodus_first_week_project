@@ -17,6 +17,17 @@ img {
   width: 50%;
 }
 
+.sidebar {
+  width: 15%;
+  float: left;
+  background-color:rgb(238, 235, 235);
+  max-height: fit-content;
+}
+
+.column {
+  width: 30%;
+  float:left;
+}
 /*
 
 css needs margin, border, padding, typography styles, and floats.
