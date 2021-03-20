@@ -12,8 +12,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  height: 30%;
-  display: block;
+  height: 20%;
 }
 
 .text_border {
@@ -25,7 +24,7 @@ p {
 
 .box1 {
   width: 100%;
-  border: solid rgb(231, 224, 224);
+  border: solid black);
   border-width: 1px;
   background-color: rgb(201, 196, 188);
   margin-bottom: 10px;
@@ -37,6 +36,7 @@ p {
   width: 100%;
   border: solid black;
   border-width: 1px;
+  margin-top: 10px;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
